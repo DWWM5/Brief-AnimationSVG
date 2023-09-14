@@ -7,4 +7,4 @@ Voici les instructions :
 1. Coder une interface HTML basique
 2. Rajouter le CSS
 
-Le SVG : Scalable Vector Graphics
+Le SVG : Le format SVG (Scalable Vector Graphics) est un format de fichier graphique basé sur le langage XML, utilisé pour représenter des images vectorielles. Il permet de créer des graphiques et des illustrations adaptables à différentes tailles sans perte de qualité, ce qui le rend idéal pour les logos, les icônes et les graphiques sur le web. SVG est largement pris en charge par les navigateurs web et les logiciels de conception graphique.
