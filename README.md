@@ -12,6 +12,6 @@ Voici les instructions :
    - stroke
    - animation
    - transform
-   - @keyframe 
+   - @keyframes 
 
 
